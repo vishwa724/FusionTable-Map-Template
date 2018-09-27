@@ -3,9 +3,9 @@ You want to put your data on a searchable, filterable map. This is a free, open 
 
 **Note** [Google now requires you to enable billing with a credit card and have a valid API key](https://cloud.google.com/maps-platform/user-guide/) for all Google API projects, including this one. [Read the guide on how these changes impact this template and instructions on getting your own API key](https://groups.google.com/forum/#!topic/fusion-table-map-template/JJMsd7wVQuM).
 
-[![Searchable Map Template screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-v1.2.jpg)](http://derekeder.github.io/FusionTable-Map-Template/)
+[![Searchable Map Template screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-v1.2.jpg)](https://github.com/vishwa724/FusionTable-Map-Template/)
 
-[See the working demo &raquo;](http://derekeder.github.io/FusionTable-Map-Template/)
+[See the working demo &raquo;](https://github.com/vishwa724/FusionTable-Map-Template/)
 
 ## Features
 
@@ -107,9 +107,9 @@ Take a look at the [wiki](https://github.com/derekeder/FusionTable-Map-Template/
 
 If you want to embed the template in a page on your website, the easiest way to do it is with an iframe. We provide an iframe-optimized template for this purpose:
 
-[![Searchable Map Template iframe screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-iframe.png)](http://derekeder.github.io/FusionTable-Map-Template/iframe_test.html)
+[![Searchable Map Template iframe screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-iframe.png)](https://github.com/vishwa724/FusionTable-Map-Template/iframe_test.html)
 
-[See the working demo &raquo;](http://derekeder.github.io/FusionTable-Map-Template/iframe_test.html)
+[See the working demo &raquo;](https://github.com/vishwa724/FusionTable-Map-Template/iframe_test.html)
 
 This template works exactly the same way as the standard full screen template. All the javascript code is still contained in `js/maps_lib.js`.
 
