@@ -3,7 +3,7 @@ You want to put your data on a searchable, filterable map. This is a free, open 
 
 **Note** [Google now requires you to enable billing with a credit card and have a valid API key](https://cloud.google.com/maps-platform/user-guide/) for all Google API projects, including this one. [Read the guide on how these changes impact this template and instructions on getting your own API key](https://groups.google.com/forum/#!topic/fusion-table-map-template/JJMsd7wVQuM).
 
-[![Searchable Map Template screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-v1.2.jpg)](https://github.com/vishwa724/FusionTable-Map-Template/)
+[![Searchable Map Template screenshot](https://raw.github.com/derekeder/FusionTable-Map-Template/master/images/searchable-map-template-v1.2.jpg)](https://vishwa724.github.io/FusionTable-Map-Template/)
 
 [See the working demo &raquo;](https://vishwa724.github.io/FusionTable-Map-Template/)
 
